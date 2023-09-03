@@ -1,8 +1,8 @@
 
 // terminal
-native TerminalCommand(const color[], ...);
+native TerminalCommand(const cmd[], ...);
 native TerminalTitle(const title[]);
-native print_t(const format[], ...);
+native print_t(const string[], ...);
 
 // r, g, b
 
