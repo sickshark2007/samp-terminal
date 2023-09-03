@@ -1,13 +1,10 @@
 # samp-terminal
 plugin simples manuseio de terminal
 
-#
-`native TerminalCommand(const cmd[], ...);`
-
-
 ### Ex:
 <img height="230" src="ex.png"/>
 ```c++
+    TerminalTitle("teste");
     TerminalCommand("cls");
     print_t("\x1b[38;5;236m-----------------------------------------------------------");
     
