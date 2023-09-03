@@ -2,8 +2,7 @@
 plugin simples manuseio de terminal
 
 ### Ex:
-<img height="230" src="ex.png"/>
-```c++
+```pawn
     TerminalTitle("teste");
     TerminalCommand("cls");
     print_t("\x1b[38;5;236m-----------------------------------------------------------");
@@ -18,6 +17,7 @@ plugin simples manuseio de terminal
 
     print_t("\x1b[38;5;236m-----------------------------------------------------------");
 ```
+<img height="230" src="ex.png"/>
 
 
 [SDK](https://github.com/Zeex/samp-plugin-sdk)
