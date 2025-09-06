@@ -1,6 +1,5 @@
 # samp-terminal
 plugin simples manuseio de terminal
-
 ### Ex:
 ```pawn
 TerminalTitle("teste");
